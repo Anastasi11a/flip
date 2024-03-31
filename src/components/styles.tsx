@@ -45,8 +45,8 @@ export const styles: Styles = {
         fontSize: "1rem",
     },
     boxContainerFront: { 
-        width: "300px",
-        height: "200px",
+        width: "500px",
+        height: "400px",
         display: "flex",
         alignItems: "center",
         justifyContent: "center",
@@ -56,8 +56,8 @@ export const styles: Styles = {
         fontSize: "1.8rem" 
     },
     boxContainerBack: {
-        width: "300px",
-        height: "200px",
+        width: "500px",
+        height: "400px",
         display: "flex",
         alignItems: "center",
         justifyContent: "center", 
