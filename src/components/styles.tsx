@@ -45,12 +45,22 @@ export const styles: Styles = {
         fontSize: "1rem",
     },
     boxContainerFront: { 
+        width: "300px",
+        height: "200px",
+        display: "flex",
+        alignItems: "center",
+        justifyContent: "center",
         backgroundColor: "#4A5568",
         color: "white", 
         borderRadius: "0.5rem", 
         fontSize: "1.8rem" 
     },
-    boxContainerBack: { 
+    boxContainerBack: {
+        width: "300px",
+        height: "200px",
+        display: "flex",
+        alignItems: "center",
+        justifyContent: "center", 
         backgroundColor: "#276749",
         color: "white", 
         borderRadius: "0.5rem", 
